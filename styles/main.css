@@ -1,0 +1,10 @@
+.menu-item {
+  display: inline-block;
+  width: 33%;
+  background-color: yellow;
+  text-align: center;
+}
+
+.selected-menu-item {
+  background-color: blue;  
+}
